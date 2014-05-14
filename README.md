@@ -6,5 +6,5 @@ This addon is under MPL 2.0. But license can be changed or addon is deprecated b
 
 
 - see also
-[Tooltip Dictionary (English-Korean) - Chrome Extension](https://chrome.google.com/webstore/detail/tooltip-dictionary-englis/hcidimjcobcnahiceedndikkenbibpop/)
-[Dictionary Provider](endic.naver.com/)
+	+ [Tooltip Dictionary (English-Korean) - Chrome Extension](https://chrome.google.com/webstore/detail/tooltip-dictionary-englis/hcidimjcobcnahiceedndikkenbibpop/)
+	+ [Dictionary Provider](endic.naver.com/)
