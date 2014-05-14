@@ -1,0 +1,9 @@
+{
+  "name": "tooltip-dictionary",
+  "title": "tooltip",
+  "id": "jid1-hi0oe0bJJcEYvQ",
+  "description": "English to Korean tooltip dictionary add-on, using naver dictionary",
+  "author": "devthewild@gmail.com",
+  "license": "MPL 2.0",
+  "version": "0.1.0"
+}
